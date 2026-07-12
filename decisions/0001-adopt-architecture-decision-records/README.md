@@ -3,7 +3,7 @@ id: ADR-0001
 title: Adopt Architecture Decision Records for the Bonsai ecosystem
 status: Approved
 area: [Ecosystem]
-owners: [glopesdev]
+authors: [glopesdev]
 related: []
 discussions:
 ---

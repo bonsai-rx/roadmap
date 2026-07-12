@@ -3,7 +3,7 @@ id: ADR-NNNN
 title: "{concise decision title}"
 status: Assessment          # Assessment | Review | Approved | Rejected | Suspended | Superseded
 area: [Ecosystem]           # Language | Standard Library | Packaging | Infrastructure | Ecosystem
-owners: []
+authors: []
 related: []                 # [ADR-000N], with the relation explained in prose
 discussions:                # links to issues, discussions, or meeting notes that inform the decision
 ---
