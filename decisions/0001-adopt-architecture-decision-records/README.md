@@ -58,7 +58,7 @@ Naming conventions and glossary:
 
 A record may sit in Assessment or Review for months while its assessments are worked. This differs from the classic form, where a record is written at the moment of decision. The status field carries how far the decision has progressed.
 
-The template for a decision record also includes a trade-off matrix, options weighed against criteria, and an assessment backlog that resolves the unknown cells. A disqualifying assessment is a must-pass check whose failure removes an option. A scoring assessment is a comparative measurement that fills a cell. Both the matrix and the assessments are optional, and are omitted for a decision made by reasoning rather than measurement, as in this record.
+The template for a decision record also includes a trade-off matrix, options weighed against criteria, and an assessment backlog that resolves what the decision does not yet know. A disqualifying assessment is a must-pass check whose failure removes an option. A scoring assessment is a comparative measurement that fills a cell. A survey assessment gathers facts the decision depends on, such as an inventory of existing usage, and neither removes nor scores an option. Both the matrix and the assessments are optional, and are omitted for a decision made by reasoning rather than measurement, as in this record. A record may also carry assessments without a matrix, where the open questions are about scope or feasibility rather than a choice between options.
 
 ## Consequences
 

@@ -56,7 +56,10 @@ means an option is eliminated if it fails the cell. No cell is filled by guesswo
 <!-- The open questions that resolve the matrix, each with an exit criterion and a file under
 assessments/. A disqualifying assessment is a must-pass check whose failure eliminates an option,
 worked first because it prunes the option space cheapest. A scoring assessment is a comparative
-check that fills a cell to weigh the survivors. -->
+check that fills a cell to weigh the survivors. A survey assessment gathers facts the decision
+depends on, such as an inventory of existing usage, and neither eliminates nor scores an option.
+Assessments may also be kept without a matrix, where the open questions are about scope or
+feasibility rather than a choice between options. -->
 
 | ID | Question | Method | Kind | Status | Exit Criterion |
 |----|----------|--------|------|--------|----------------|
