@@ -4,7 +4,7 @@ title: Modernizing the Bonsai .NET stack
 status: Assessment
 area: [Ecosystem, Infrastructure, Packaging]
 authors: [glopesdev]
-related: []
+related: [ADR-0003, ADR-0004]
 discussions:
 ---
 
@@ -44,7 +44,7 @@ All criteria in [criteria.md](../../criteria.md) bear on the modernization, but 
 
 The modernization resolves into a set of decisions, several of which are being scoped as their own records that reference this umbrella:
 
-- The cross-platform editor architecture: decoupling the editor operation model from WinForms into a UI-agnostic editing core, then choosing a presentation stack over it. To be created as its own record, which will unlock a headless editing surface for automation and agents.
+- The cross-platform editor architecture: decoupling the editor operation model from WinForms into a presentation-independent library, then choosing a presentation stack over it. Recorded as ADR-0003, the UI-agnostic operation model, which unlocks a headless editing surface for automation and agents, and ADR-0004, the presentation stack.
 - Adopting modern Rx.NET across target frameworks: containing the Rx strong-name break at the target-framework boundary, and recommending a version for package developers who multi-target. To be created as its own record.
 - The future of `OpenCV.Net`, the primary image-processing dependency, to be created as its own record.
 - A stable abstraction for Bonsai 3D graphics and audio: the future of the `OpenTK`-dependent graphics and audio stack, and how to introduce an owned abstraction where none exists today. To be created as its own record.

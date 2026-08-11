@@ -18,3 +18,5 @@ A pull request is scoped to one coherent increment rather than a whole decision:
 |----|-------|------|--------|
 | [ADR-0001](decisions/0001-adopt-architecture-decision-records/) | Adopt Architecture Decision Records for the Bonsai ecosystem | Ecosystem | Approved |
 | [ADR-0002](decisions/0002-modernize-net-stack/) | Modernizing the Bonsai .NET stack | Ecosystem, Infrastructure, Packaging | Assessment |
+| [ADR-0003](decisions/0003-editor-operation-model/) | A UI-agnostic operation model for the Bonsai editor | Ecosystem, Infrastructure | Assessment |
+| [ADR-0004](decisions/0004-cross-platform-editor/) | A cross-platform presentation stack for the Bonsai editor | Ecosystem, Infrastructure | Assessment |
