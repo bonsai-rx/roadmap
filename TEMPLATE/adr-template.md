@@ -9,8 +9,8 @@ discussions:                # links to issues, discussions, or meeting notes tha
 ---
 
 <!--
-To author a record, copy this directory to decisions/NNNN-short-slug/, fill in the front matter and
-the sections below, and add a row to the register in the repository README. The Trade-off Matrix and
+To author a record, copy this file to decisions/NNNN-short-slug/README.md, fill in the front matter
+and the sections below, and add a row to the register in the repository README. The Trade-off Matrix and
 Assessments sections are optional; omit them for a decision made by reasoning rather than
 measurement, and carry the reasoning in Decision. The full process is defined in ADR-0001.
 -->

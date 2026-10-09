@@ -4,7 +4,7 @@ Architecture Decision Records for the Bonsai ecosystem: the durable record of wh
 
 An ADR here records a decision and the reasoning behind it, and is distinct from a proposal. A proposal is a forward-looking specification to build something and lives in the repository it affects, for example `bonsai-rx/bonsai`. An ADR instead captures why a strategic ecosystem decision was taken, whether that means building, replacing, or removing, and may motivate or supersede several proposals across repositories.
 
-Architecture is read broadly, spanning software, community, and process. A record can sit un-decided for months while its assessments are worked, and status tracks how far it has progressed. The process itself is defined in [ADR-0001](decisions/0001-adopt-architecture-decision-records/); the record template lives in [TEMPLATE](TEMPLATE/), and the shared decision criteria in [criteria.md](criteria.md).
+Architecture is read broadly, spanning software, community, and process. A record can sit un-decided for months while its assessments are worked, and status tracks how far it has progressed. The process itself is defined in [ADR-0001](decisions/0001-adopt-architecture-decision-records/); the record and assessment templates live in [TEMPLATE](TEMPLATE/), and the shared decision criteria in [criteria.md](criteria.md).
 
 ## Working with Records
 
